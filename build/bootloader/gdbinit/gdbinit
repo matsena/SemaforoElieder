@@ -1,0 +1,2 @@
+source D:/5ECA/hello_world/build/bootloader/gdbinit/symbols
+source D:/5ECA/hello_world/build/bootloader/gdbinit/connect
